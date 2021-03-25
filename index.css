@@ -9,8 +9,10 @@
 
   margin-bottom: 1vmax;
   padding-bottom: 1vmax;
-  background-color: greenyellow;
-  color: red;
+  
+  background-color: rgba(255, 68, 0, 0.87);
+  
+  color: white;
   
 }
 
@@ -25,12 +27,14 @@ nav.navbar {
   text-align: center;
   border-style: groove;
   border-color: black;
-  background-color: lightblue;
+
+  background-color: rgba(255, 255, 0, 0.692);
 }
 
 a:visited,
 a:link {
-  background-color: khaki;
+  background-color: orangered;
+  color: white ;
   padding-right: 2vmin;
   padding-left: 2vmin;
   padding-top: 2vmin;
@@ -42,9 +46,7 @@ a:hover {
   background-color: violet;
   border-radius: 2vmin;
 }
-body {
-  background-color: wheat;  
-}
+
 
 .foot {
   text-align: center;
